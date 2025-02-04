@@ -4,7 +4,7 @@ import Box from "./Box";
 
 const Container = styled.div`
   display: flex;
-  gap: 10px; // 박스들 사이의 간격
+  gap: 10px;
 `;
 
 function BoxContainer() {
